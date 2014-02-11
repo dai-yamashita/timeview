@@ -207,7 +207,7 @@
 
             return x(today) + sidePadding;
           })
-          .attr("y2", this.h)
+          .attr("y2", height)
           .style("stroke", '#1F8F1F');
       }
 
